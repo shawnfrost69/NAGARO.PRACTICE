@@ -2,6 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
+//Kadane's Algorithm
 public class MaxSubArray {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
